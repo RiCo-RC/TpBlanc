@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "question": "Quelle est la capitale de la France?",
+      "reponse1": "Paris",
+      "reponse2": "Lyon",
+      "reponse3": "Marseille",
+      "reponse4": "Bordeaux"
+  },
+  {
+      "id": 2,
+      "question": "Quel est le plus grand océan du monde?",
+      "reponse1": "Océan Atlantique",
+      "reponse2": "Océan Indien",
+      "reponse3": "Océan Arctique",
+      "reponse4": "Océan Pacifique"
+  },
+  {
+      "id": 3,
+      "question": "Quel est le symbole chimique de l'or?",
+      "reponse1": "Au",
+      "reponse2": "Ag",
+      "reponse3": "O",
+      "reponse4": "Fe"
+  },
+  {
+      "id": 4,
+      "question": "Combien de continents y a-t-il sur Terre?",
+      "reponse1": "5",
+      "reponse2": "6",
+      "reponse3": "7",
+      "reponse4": "8"
+  },
+  {
+      "id": 5,
+      "question": "Qui a écrit 'Les Misérables'?",
+      "reponse1": "Victor Hugo",
+      "reponse2": "Emile Zola",
+      "reponse3": "Honoré de Balzac",
+      "reponse4": "Gustave Flaubert"
+  }
+]
